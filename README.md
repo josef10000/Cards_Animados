@@ -1,5 +1,9 @@
 # Cards_Animados
 Treinamento de projetos Front
+# Tecnologias utilzadas
+## CSS
+## Javascript
+## HTML
 
 ![card](https://github.com/josef10000/Cards_Animados/assets/102549534/93a20e4b-4b0f-415f-b3df-c6e2265dd3c1)
 ![card2](https://github.com/josef10000/Cards_Animados/assets/102549534/36307d84-9a62-4e69-af16-d9972a112ad0)
