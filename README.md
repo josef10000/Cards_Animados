@@ -1,4 +1,4 @@
-# Cards_Animados
+# Cards Animados
 Treinamento de projetos Front
 # Tecnologias utilzadas
 ## CSS
