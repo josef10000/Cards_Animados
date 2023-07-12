@@ -1,11 +1,8 @@
 # Cards Animados
 Treinamento de projetos Front
-# Tecnologias utilzadas
-## CSS
-## Javascript
-## HTML
 
-Este é um projeto de exemplo que demonstra a criação de um layout responsivo utilizando HTML, Javascript e CSS puro.
+
+#### Este é um projeto de exemplo que demonstra a criação de um layout responsivo utilizando HTML, Javascript e CSS puro.
 
 ## Instruções de Uso
 
